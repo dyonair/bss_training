@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.androidannotations:androidannotations:4.3.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations/4.3.1/5ae3e68c1c65b3d026c1e62cfec503021b8723e2/androidannotations-4.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations/4.3.1/c55baceeec718aae5d58c8ef744c29f3724287d6/androidannotations-4.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

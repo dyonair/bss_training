@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Training5</string>
     <string name="facebook_app_id">771145189736924</string>
+    <string name="activity_others_et_title">Enter title</string>
+    <string name="activity_others_et_body">Enter body</string>
+    <string name="activity_others_tv_name">Put, Post and Delete with Retrofit</string>
+    <string name="activity_others_btn_put">Put</string>
+    <string name="activity_others_btn_post">Post</string>
+    <string name="activity_others_btn_delete">Delete</string>
 </resources>

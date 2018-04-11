@@ -16,7 +16,7 @@
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
 
-        <activity android:name="com.beesightsoft.training6.domain.LoginActivity_">
+        <activity android:name="com.beesightsoft.training6.domain.OthersActivity_">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.helger:jcodemodel:2.8.6@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.helger/jcodemodel/2.8.6/7dd624aab5f49bf2dba213438905091f04ffd6fe/jcodemodel-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.helger/jcodemodel/2.8.6/9237f6ba25e5eb949e4708dcc13983032d3ebaab/jcodemodel-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
