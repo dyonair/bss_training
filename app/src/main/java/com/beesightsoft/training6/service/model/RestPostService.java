@@ -15,25 +15,25 @@ import retrofit2.http.PUT;
 import retrofit2.http.Path;
 
 public interface RestPostService {
-    @POST("/posts")
+    @POST("posts")
     @FormUrlEncoded
     Call<Post> savePost(@Field("title") String title,
                         @Field("body") String body,
                         @Field("userId") long userId);
 
-    @POST("/posts")
+    @POST("posts")
     @FormUrlEncoded
     Observable<Post> savePostRxJava(@Field("title") String title,
                                     @Field("body") String body,
                                     @Field("userId") long userId);
 
-    @PUT("/posts/{id}")
+    @PUT("posts/{id}")
     @FormUrlEncoded
     Call<Post> updatePost(@Path("id") long id,
                           @Field("title") String title,
                           @Field("body") String body,
                           @Field("userId") long userId);
 
-    @DELETE("/posts/{id}")
+    @DELETE("posts/{id}")
     Call<Post> deletePost(@Path("id") long id);
 }
